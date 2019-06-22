@@ -1,0 +1,26 @@
+---
+layout: project
+title:  "iCipher"
+date:   2019-02-25 05:10:25
+author: Ralph NGUYEN
+categories:
+- project
+img: iCipher_project.jpg
+thumb: alitrends_thumb.png
+carousel:
+- iCipher_01.jpg
+- iCipher_02.jpg
+- iCipher_03.jpg
+- iCipher_04.jpg
+tagged: Cipher, Message, Encrypt
+status: Available on AppStore
+website:
+---
+#### iCipher
+Secret your messages!
+
+#### Description
+You are chatting with your friends, your relatives, your lover... You don't want anyone can read your messages and keep them away from all curious eyes.
+
+Encrypt your messages and be assured that they are always safe with iCipher!
+

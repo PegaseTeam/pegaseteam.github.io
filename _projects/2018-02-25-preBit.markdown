@@ -1,0 +1,29 @@
+---
+layout: project
+title:  "preBit"
+date:   2018-02-25 05:10:25
+author: Ralph NGUYEN
+categories:
+- project
+img: preBit_project.jpg
+thumb: alitrends_thumb.png
+carousel:
+- preBit_01.jpg
+- preBit_02.jpg
+- preBit_03.jpg
+- preBit_04.jpg
+tagged: Bitcoin, AI
+status: Available on AppStore
+website:
+---
+#### preBit
+Predict Bitcoin Price
+
+#### Description
+Bitcoin price rises and falls continuously. Do you want to predict that change? With AI (Artificial Intelligence) technology, preBit will help you:
+
+- Predict the future price of Bitcoin.
+- Predict the price trend for next week.
+- Statistical data of Bitcoin price.
+- Keep track the latest NEWS about Bitcoin.
+

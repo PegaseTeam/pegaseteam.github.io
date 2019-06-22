@@ -16,7 +16,7 @@ carousel:
 - alitrends_06.jpg
 - alitrends_07.jpg
 - alitrends_08.jpg
-tagged: Quotes, Photos
+tagged: AliTrends, Product Trending, Dropshiping
 status: Available for Pre-order
 website: https://pegaseteam.github.io/AliTrends/
 ---
