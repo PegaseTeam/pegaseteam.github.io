@@ -13,7 +13,8 @@ carousel:
 - quoto_03.jpg
 tagged: AliTrends, Product Trending
 status: Available on AppStore 
-website: https://pegaseteam.github.io/Quoto/
+website: 
+appstorelink: https://apps.apple.com/app/id1459504175
 ---
 #### Quoto
 Quoto: The world's largest collection of quotations!

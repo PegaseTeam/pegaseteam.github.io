@@ -18,7 +18,8 @@ carousel:
 - alitrends_08.jpg
 tagged: AliTrends, Product Trending, Dropshiping
 status: Available for Pre-order
-website: https://pegaseteam.github.io/AliTrends/
+website:
+appstorelink: https://apps.apple.com/app/id1465914366
 ---
 #### AliTrends
 Product trends on AliExpress

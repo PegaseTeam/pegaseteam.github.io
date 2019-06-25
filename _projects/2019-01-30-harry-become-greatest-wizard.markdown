@@ -16,6 +16,7 @@ carousel:
 tagged: Harry Potter, Magic, AR
 status: Available on AppStore
 website:
+appstorelink: https://apps.apple.com/app/id1449716851
 ---
 #### Harry
 Become the mightiest wizard!

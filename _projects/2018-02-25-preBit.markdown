@@ -15,6 +15,7 @@ carousel:
 tagged: Bitcoin, AI
 status: Available on AppStore
 website:
+appstorelink: https://apps.apple.com/app/id1333128955
 ---
 #### preBit
 Predict Bitcoin Price

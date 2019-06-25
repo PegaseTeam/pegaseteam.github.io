@@ -505,3 +505,19 @@ a.anchor{
     top: -80px; 
     visibility: hidden;
 }
+.appStore {
+	height: 75px;
+}
+
+.downloadButtonsContainer {
+	display: inline-block;
+	margin-top: 42px;
+}
+
+@media only screen and (max-width: 992px) {
+
+	.downloadButtonsContainer {
+		text-align: center;
+	}
+	
+} 
