@@ -19,49 +19,6 @@ carousel:
 tagged: AliTrends, Product Trending, Dropshiping
 status: Available for Pre-order
 website: https://pegaseteam.github.io/AliTrends/
-
-# Feature List                            Edit, add or remove features to be presented.
-features                                  :
-
-  - title                                 : Top Trending Products
-    description                           : Top best selling products on AliExpress.
-    fontawesome_icon_name                 : paper-plane
-    
-  - title                                 : Hot Selling Products
-    description                           : List of trending products to sell online and dropshipping.
-    fontawesome_icon_name                 : fire
-
-  - title                                 : Market Analysis
-    description                           : Monitoring the market with detailed statistics charts.
-    fontawesome_icon_name                 : chart-pie
-
-  - title                                 : Commission Analysis
-    description                           : Analyze the commission rate of the top categories.
-    fontawesome_icon_name                 : chart-bar
-
-  - title                                 : Trending Categories
-    description                           : List the best-selling categories based on sales quantity.
-    fontawesome_icon_name                 : chart-line
-  
-  - title                                 : Featured Products
-    description                           : Trending products by features (Top Selection, Flash Deals)
-    fontawesome_icon_name                 : user-tag
-
-  - title                                 : Creative Promotion
-    description                           : Latest and ongoing creative promotion programs.
-    fontawesome_icon_name                 : percentage
-
-  - title                                 : Product Searching
-    description                           : Finding the exact products you want with advanced filters.
-    fontawesome_icon_name                 : search
-
-  - title                                 : Regular Updates
-    description                           : Regularly update and develop new features.
-    fontawesome_icon_name                 : pencil-alt
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 ---
 #### AliTrends
 Product trends on AliExpress
