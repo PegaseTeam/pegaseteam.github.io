@@ -11,6 +11,8 @@ layout: default
 
         <div class="col-lg-5 col-lg-offset-1">
             <div class="spacing"></div>
+            <h4>{{ page.title }}: {{ page.slogan }}</h4>
+            <div class="hline"></div>
 
             {{ content }}
 
@@ -20,7 +22,7 @@ layout: default
             <h4>Project Details</h4>
             <div class="hline"></div>
             <p><b>Date:</b> {{ page.date | date: "%b %-d, %Y" }}</p>
-            <p><b>Tagged:</b> {{ page.tagged }}</p>
+            <p><b>Tags:</b> {{ page.tagged }}</p>
              
             <p><b>Status:</b> {{ page.status }}</p>
             
@@ -35,6 +37,10 @@ layout: default
             {% endif %}
         </div>
     </div><! --/row -->
+
+    <div class="row">
+        {% include features.html %}
+    </div>
 </div><! --/container -->
 	 
 {% include portfolio.html title="Related Works." limit=5 %}

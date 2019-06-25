@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  "iCipher"
+slogan: "Secret your messages!"
 date:   2019-02-25 05:10:25
 author: Ralph NGUYEN
 categories:
@@ -17,10 +18,7 @@ status: Available on AppStore
 website:
 appstorelink: https://apps.apple.com/app/id1450746572
 ---
-#### iCipher
-Secret your messages!
 
-#### Description
 You are chatting with your friends, your relatives, your lover... You don't want anyone can read your messages and keep them away from all curious eyes.
 
 Encrypt your messages and be assured that they are always safe with iCipher!

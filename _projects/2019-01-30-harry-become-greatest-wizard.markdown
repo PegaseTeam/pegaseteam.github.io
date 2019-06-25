@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  "Harry"
+slogan: "Become the mightiest wizard!"
 date:   2019-01-30 05:10:25
 author: Ralph NGUYEN
 categories:
@@ -18,10 +19,7 @@ status: Available on AppStore
 website:
 appstorelink: https://apps.apple.com/app/id1449716851
 ---
-#### Harry
-Become the mightiest wizard!
 
-#### Description
 Become a wizard and participate in exciting adventures with friends and family.
 
 You will become stronger by owning the most powerful wand, upgrade your magic class, learning the strongest spells, winning in duels, ...

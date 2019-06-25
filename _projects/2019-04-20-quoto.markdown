@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  "Quoto"
+slogan: "The world's largest collection of quotations!"
 date:   2019-04-20 05:10:25
 author: Ralph NGUYEN
 categories:
@@ -16,9 +17,6 @@ status: Available on AppStore
 website: 
 appstorelink: https://apps.apple.com/app/id1459504175
 ---
-#### Quoto
-Quoto: The world's largest collection of quotations!
 
-#### Description
-A perfect combination of meaningful quotations and beautiful photos that created Quoto.
+A perfect combination of meaningful quotations and beautiful photos that created Quoto.  
 With over 50,000 quotes and 800,000 beautiful photos, you will choose your own quotations and the most appropriate photos.
