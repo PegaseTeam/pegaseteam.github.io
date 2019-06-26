@@ -36,14 +36,14 @@ collections:
 social:
   # - title: dribbble
   #   url:
-  - title: facebook
-    url:
-  - title: twitter
-    url:
-  - title: instagram
-    url:
-  - title: tumblr
-    url:
+  # - title: facebook
+  #   url: 
+  # - title: twitter
+  #   url:
+  # - title: instagram
+  #   url:
+  # - title: tumblr
+  #   url:
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:

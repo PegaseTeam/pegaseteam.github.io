@@ -16,6 +16,37 @@ tagged: AliTrends, Product Trending
 status: Available on AppStore 
 website: 
 appstorelink: https://apps.apple.com/app/id1459504175
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : 50,000+ Quotes
+    description                           : The best quotations in the world.
+    fontawesome_icon_name                 : quote-right
+    
+  - title                                 : 500,000+ Photos
+    description                           : Finding beautiful photos to create your quotations.
+    fontawesome_icon_name                 : image
+
+  - title                                 : Stylize Your Quotes
+    description                           : Personalize your quote with fonts, effects, color, ...
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Share Great Quote
+    description                           : Share with your friends, social networks,.
+    fontawesome_icon_name                 : share-alt
+
+  - title                                 : Photos Searching
+    description                           : Look for beautiful images for your quotations.
+    fontawesome_icon_name                 : search
+  
+  - title                                 : Quotes Finding
+    description                           : Search for your favorite quotations.
+    fontawesome_icon_name                 : heart
+
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 ---
 
 A perfect combination of meaningful quotations and beautiful photos that created Quoto.  

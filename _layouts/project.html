@@ -38,9 +38,11 @@ layout: default
         </div>
     </div><! --/row -->
 
+    {% if page.features.size > 0 %}
     <div class="row">
-        {% include features.html %}
+        {% include features.html title="Features" %}
     </div>
+    {% endif %}
 </div><! --/container -->
 	 
 {% include portfolio.html title="Related Works." limit=5 %}

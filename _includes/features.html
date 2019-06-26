@@ -1,28 +1,28 @@
-<div class="features">
+<div id="portfoliowrap">
+    <div class="portfolio-centered">
+        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+        <div class="hline"></div>
 
-    {% for feature in page.features %}
+        <div class="features">
+            {% for feature in page.features %}
 
-    {% if feature.title %}
-    <div class="feature">
-        <div>
-            <span class="fa-stack fa-1x">
-                <!-- <i class="iconBack fas fa-circle fa-stack-2x"></i> -->
-                <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-2x"></i>
+            {% if feature.title %}
+            <div class="feature">
+                <div>
+                    <span class="fa-stack fa-1x">
+                        <i class="iconTop fas fa-{{ feature.fontawesome_icon_name }} fa-stack-2x"></i>
+                    </span>
+                    
+                    <div class="featureText">
+                        <h3> {{ feature.title }} </h3>
+                        <p> {{ feature.description }} </p>
+                    </div>  
+                </div>
+            </div>
+            {% endif %}
 
-            </span>
-            
-        </div>
-        <div class="featureText">
-            <h3>
-                {{ feature.title }}
-            </h3>
-            <p>
-                {{ feature.description }}
-            </p>
+            {% endfor %}
+
         </div>
     </div>
-    {% endif %}
-
-    {% endfor %}
-
 </div>
