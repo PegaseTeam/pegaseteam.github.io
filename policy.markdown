@@ -5,8 +5,8 @@ permalink: /privacy-policy/
 ---
 
 ## Privacy Policy  
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that We collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that We collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible unless otherwise defined in this Privacy Policy.
 
@@ -21,7 +21,7 @@ Link to privacy policy of third party service providers used by the app
 * [Firebase Analytics] [Firebase]
 
 **Log Data**  
-We want to inform you that whenever you use my Service, in a case of an error in the app We collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+We want to inform you that whenever you use our Service, in a case of an error in the app We collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
 **Cookies**  
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
@@ -50,11 +50,23 @@ This Service may contain links to other sites. If you click on a third-party lin
 **Children’s Privacy**  
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case We discover that a child under 13 has provided us with personal information, We immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that We will be able to do necessary actions.
 
+**California Online Privacy Protection Act Compliance**  
+We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Information for European Union Customers**  
+By using PEGASE and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
+
+**International Transfers of Information**  
+Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed, stored, or used.
+
+**Your Consent**  
+By using our site or apps, you consent to our privacy policy.
+
 **Changes to This Privacy Policy**  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 **Contact Us**  
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us at pegase.studio@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at pegase.studio@gmail.com.
 
 [AdMob]: https://support.google.com/admob/answer/6128543?hl=en
 [Firebase]: https://firebase.google.com/policies/analytics
