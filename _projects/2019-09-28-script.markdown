@@ -1,0 +1,34 @@
+---
+layout: project
+title:  "Script"
+slogan: "Become a film director"
+date:   2019-09-28 05:10:25
+author: Pegase Studio
+categories:
+- project
+img: script_project.png
+thumb: script_thumb.png
+carousel:
+- Script-00.png
+- Script-01.png
+- Script-02.png
+- Script-03.png
+- Script-04.png
+- Script-05.png
+- Script-06.png
+- Script-07.png
+- Script-08.png
+- Script-09.png
+- Script-10.png
+tagged: Script, Effect, Video
+status: Available on AppStore
+website:
+appstorelink: https://apps.apple.com/app/id1465914366
+---
+
+Create perfect movie scripts with amazing visual effects and excellent sound effects, that's Script!
+
+With thousands of awesome effects, each effect will be a surprise for you. Be creative, combining the effects together and create your own script.
+
+"Script is amazing! Imagine that each effect is like a letter. You just need to put the letters together to make a great story. Let's write your own wonderful story with Script." - Ralph Allen
+
