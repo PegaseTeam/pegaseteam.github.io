@@ -1,0 +1,38 @@
+---
+layout: project
+title:  "iDev"
+slogan: "The best iOS development news!"
+date:   2019-11-22 05:10:25
+author: Ralph NGUYEN
+categories:
+- project
+img: iDev_project.png
+thumb: iDev_thumb.png
+carousel:
+- iDev-01.png
+- iDev-02.png
+- iDev-03.png
+- iDev-04.png
+- iDev-05.png
+tagged: iOS, NEWS, Swift
+status: Available on AppStore
+website:
+appstorelink: https://apps.apple.com/app/id1116036626
+---
+
+You're an iOS developer? You want to update the latest news, the hottest topic in iOS programming? iDev's here for you!
+
+You’re just starting with iOS development? You want to improve your skills? iDev's here for you!
+
+You’re  looking for the best libraries for your new app? iDev's here for you!
+
+You’re about to have an interview and you need to prepare questions about iOS development? iDev's here for you!
+
+
+iDev features:
+
+* Latest NEWS: Stay up to date with the latest news, hottest topics, coolest tips, and more with iDev.
+* Amazing Libraries: The best, most popular, easiest to use libraries for developing your new applications.
+* Online Courses: Great courses to help you improve your iOS programming skills, with enough level from beginner to advance.
+* Interview Questions: A collection of frequently asked interview questions for iOS programmers covering all the topics ...
+

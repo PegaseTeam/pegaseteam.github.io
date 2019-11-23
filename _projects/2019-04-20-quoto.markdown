@@ -12,7 +12,7 @@ carousel:
 - quoto_01.jpg
 - quoto_02.jpg
 - quoto_03.jpg
-tagged: AliTrends, Product Trending
+tagged: Quotes, Photos
 status: Available on AppStore 
 website: 
 appstorelink: https://apps.apple.com/app/id1459504175
