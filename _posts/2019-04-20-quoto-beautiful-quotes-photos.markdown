@@ -9,7 +9,7 @@ categories:
 - quotes
 - photos
 - images
-img: quoto_post.jpg
+
 thumb: quoto_thumb.png
 ---
 

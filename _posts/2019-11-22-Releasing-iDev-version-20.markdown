@@ -9,7 +9,7 @@ categories:
 - iOS
 - NEWS
 - Swift
-img: iDev_post.png
+
 thumb: iDev_thumb.png
 ---
 

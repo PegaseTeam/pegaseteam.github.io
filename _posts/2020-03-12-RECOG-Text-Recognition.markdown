@@ -8,7 +8,7 @@ categories:
 - application
 - iOS
 - Swift
-img: RECOG_post.png
+
 thumb: RECOG_thumb.png
 ---
 

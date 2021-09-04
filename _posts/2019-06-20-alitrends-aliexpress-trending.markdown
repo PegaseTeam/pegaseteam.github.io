@@ -10,7 +10,7 @@ categories:
 - dropshipping
 - shopping
 - product trending
-img: alitrends_post.jpg
+
 thumb: alitrends_thumb.png
 ---
 

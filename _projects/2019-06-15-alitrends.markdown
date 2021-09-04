@@ -36,23 +36,23 @@ features                                  :
 
   - title                                 : Market Analysis
     description                           : Monitoring the market with detailed statistics charts.
-    fontawesome_icon_name                 : chart-pie
+    fontawesome_icon_name                 : pie-chart
 
   - title                                 : Commission Analysis
     description                           : Analyze the commission rate of the top categories.
-    fontawesome_icon_name                 : chart-bar
+    fontawesome_icon_name                 : bar-chart
 
   - title                                 : Trending Categories
     description                           : List the best-selling categories based on sales quantity.
-    fontawesome_icon_name                 : chart-line
+    fontawesome_icon_name                 : line-chart
   
   - title                                 : Featured Products
     description                           : Trending products by features (Top Selection, Flash Deals)
-    fontawesome_icon_name                 : user-tag
+    fontawesome_icon_name                 : tags
 
   - title                                 : Creative Promotion
     description                           : Latest and ongoing creative promotion programs.
-    fontawesome_icon_name                 : percentage
+    fontawesome_icon_name                 : percent
 
   - title                                 : Product Searching
     description                           : Finding the exact products you want with advanced filters.
@@ -60,11 +60,7 @@ features                                  :
 
   - title                                 : Regular Updates
     description                           : Regularly update and develop new features.
-    fontawesome_icon_name                 : pencil-alt
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : spinner
 ---
 
 Are you wondering about choosing products to sell on your online store? Which product is hot? Which product is the trend?  
