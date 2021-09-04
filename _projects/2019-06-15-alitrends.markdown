@@ -18,7 +18,7 @@ carousel:
 - alitrends_07.jpg
 - alitrends_08.jpg
 tagged: AliTrends, Product Trending, Dropshiping
-status: Available for Pre-order
+status: Available on AppStore
 website:
 appstorelink: https://apps.apple.com/app/id1465914366
 

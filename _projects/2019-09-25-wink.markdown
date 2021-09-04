@@ -1,0 +1,32 @@
+---
+layout: project
+title:  "Wink"
+slogan: "Amazing photo & video effects"
+date:   2019-09-25 05:10:25
+author: Ralph NGUYEN
+categories:
+- project
+img: wink_project.jpg
+thumb: wink_thumb.jpg
+carousel:
+- wink-01.png
+- wink-02.png
+- wink-03.png
+- wink-04.png
+- wink-05.png
+- wink-06.png
+- wink-07.png
+tagged: iOS, NEWS, Swift
+status: Available on AppStore
+website:
+appstorelink: https://apps.apple.com/app/id1576382327
+---
+
+Cool effects to make every moment more special.
+
+wink! is an amazing camera & photo/video editing app. We created cool effects to make every moment more special.
+
+Each effect is a pleasant surprise, and will make you say: "Woah!"
+
+Come on, let's experience wink! ;)
+

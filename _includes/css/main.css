@@ -217,10 +217,8 @@ a:focus {
 
 #headerwrap {
 	/* background-color: {{ site.colors.primary }}; */
-	background-image: url("/assets/img/banner.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	min-height: 1000px;
+	background-color: white;
+	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
 	text-align: center;
@@ -445,12 +443,12 @@ csmall {
 /* Contact Page */
 #contactwrap {
 	background: url(../img/contact.jpg) no-repeat center top;
-	margin-top: -60px;
+	/* margin-top: -60px; */
 	padding-top:0px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 400px;
+	min-height: 500px;
 	width: 100%;
 	
     -webkit-background-size: 100%;

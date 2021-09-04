@@ -12,21 +12,16 @@
                 <div class="hline-w"></div>
                 <p>
                     {% for network in site.social %}
-                        <!-- <a href="{{ network.url }}" class="btn-social btn-outline">
-                          <i class="fas fa-{{ network.title }}" aria-hidden="true"></i>
+                        <a href="{{ network.url }}" class="btn-social btn-outline">
+                          <i class="fa fa-{{ network.title }}" aria-hidden="true"></i>
                           <span class="sr-only">{{network.title}}</span>
-                          <h4>{{network.title}}</h4>
-                          
-                        </a> -->
-
-                        <p><a href="{{ network.url }}" ">{{network.title}}</a></p>
-                        <!-- <a class="appStoreLink" href="{{ page.appstorelink }}"><img class="appStore" src={{ "/assets/img/appstore.png" }}></a> -->
+                        </a>
                     {% endfor %}
                 </p>
             </div>
 
             <div class="col-lg-4">
-                <h4>Terms of Use & Privacy Policy</h4>
+                <h4>Privacy Policy</h4>
                 <div class="hline-w"></div>
                 <a href="{{ "/terms-of-use/" | prepend: site.baseurl }}" ">Terms of Use</a>
                 <p><a href="{{ "/privacy-policy/" | prepend: site.baseurl }}" ">Privacy Policy</a></p>
