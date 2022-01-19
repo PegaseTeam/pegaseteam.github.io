@@ -10,6 +10,7 @@ categories:
 - NEWS
 - Swift
 
+img: 
 thumb: iDev_thumb.png
 ---
 

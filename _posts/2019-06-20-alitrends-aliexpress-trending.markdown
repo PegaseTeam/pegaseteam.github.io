@@ -11,6 +11,7 @@ categories:
 - shopping
 - product trending
 
+img: 
 thumb: alitrends_thumb.png
 ---
 

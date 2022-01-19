@@ -9,6 +9,7 @@ categories:
 - iOS
 - Swift
 
+img: 
 thumb: RECOG_thumb.png
 ---
 

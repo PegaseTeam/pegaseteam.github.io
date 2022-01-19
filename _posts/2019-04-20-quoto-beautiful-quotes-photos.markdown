@@ -10,6 +10,7 @@ categories:
 - photos
 - images
 
+img: 
 thumb: quoto_thumb.png
 ---
 
